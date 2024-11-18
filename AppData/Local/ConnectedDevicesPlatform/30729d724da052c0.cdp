@@ -1,0 +1,27 @@
+﻿{
+   "AfcDatabaseSettings" : {
+      "DatabaseInstanceId" : 0,
+      "LastUpdated" : "2024-11-12T18:26:29.414"
+   },
+   "AfsActivityTypes" : [],
+   "AfsChannelUri" : "",
+   "AfsEnvironment" : "",
+   "AfsSubscriptionId" : "",
+   "AfsSubscriptionUpdateTime" : "0000-00-00T00:00:00.000",
+   "BaseRegisteredInfoHash" : "",
+   "CNCNotificationChannelId" : "1;7586110674655737059",
+   "CNCNotificationUri" : "https://wns2-par02p.notify.windows.com/?token=AwYAAABv%2fJtfheFE%2beNNJlpvmDPLFFR4%2fMJYyDNPFliVu5a9%2f0euWxwyLGvtdGDUwogpz7PDRHL%2fqWcKvyv%2flN8GjfnPTPYoG8M2B1kt0PF88PTBZwiEDUorbe8xowxFmHeGfKelS9q1c1r6kJWgw6C8nVKl",
+   "CNCNotificationUriExpirationTime" : "2024-12-14T16:10:26.000Z",
+   "CNCNotificationUriLastSynced" : "2024-11-14T16:10:27.776Z",
+   "DdsRegistrationExpiryTickCount" : 140704598849600,
+   "Devices" : [],
+   "FormatVersion" : 12,
+   "LastRegisteredNotificationUri" : "",
+   "LastRegisteredNotificationUriExpirationTime" : "0000-00-00T00:00:00.000",
+   "LastSyncedTime" : "0000-00-00T00:00:00.000",
+   "LogicalDeviceId" : "0HDj5N3htKS3fflgbRDTNp8DrzoWekZEtYPBCtbxT80=",
+   "NextDataEncryptionKeyRolloverTime" : "0000-00-00T00:00:00.000",
+   "RegisteredInfoHash" : "",
+   "RegisteredWithStrongAuth" : false,
+   "StableUserId" : "30729d724da052c0"
+}
