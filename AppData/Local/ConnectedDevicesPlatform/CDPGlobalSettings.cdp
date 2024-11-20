@@ -123,8 +123,8 @@
    "LargePayload.ThresholdBytes" : 65536,
    "LatestCdpUsedTime" : "0000-00-00T00:00:00.000",
    "LatestFixAccountToastTime" : {
-      "000340013D64BD85" : "2024-11-17T18:26:07.665",
-      "00037FFE64CE810A" : "2024-11-17T18:26:30.472"
+      "000340013D64BD85" : "2024-11-20T20:48:15.205",
+      "00037FFE64CE810A" : "2024-11-20T20:48:15.203"
    },
    "LowestRssiAllowedForBleDiscovery" : -75,
    "MaximumConcurrentBluetoothSends" : 5,
